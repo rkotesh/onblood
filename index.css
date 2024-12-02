@@ -1,0 +1,50 @@
+nav{
+    color: rgb(255, 255, 255);
+    margin: 15px;
+    padding: 3px;
+ 
+    
+}
+body{
+    background-color: #1f242d;
+
+}
+.font{
+
+    font-size: 50px;
+    color: red;
+  
+}
+.details{
+    margin-left: 420px;
+    color: white;
+    border: 1px solid white;
+    border-radius: 10px;
+    width: 250px;
+    height: 430px;
+    margin-left: 390px;
+    text-align: center;
+    margin-top: 50px;
+}
+.btn{
+    width: 60px;
+    height: 21px;
+    margin-top: 25px;
+}
+.drop{
+  
+    width: 6%;
+    height: 6%;
+    margin-top: 10px;
+    
+}
+.name{
+    color: rgb(255, 255, 255);
+    margin-left: 470px;
+    font-size: 30px;
+}
+
+
+
+
+
